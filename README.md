@@ -14,6 +14,12 @@ It should execute environment.yml file which deals with dependencies. <br/>
 
 -----
 
+## Python Notebook
+
+The training and testing results are included in the python notebooks.
+1. The GAT on Cora.ipynb for transductive learning problem.
+2. The GAT on PPI.ipynb for inductive learning problem.
+
 ## Usage
 
 ### Training GAT
