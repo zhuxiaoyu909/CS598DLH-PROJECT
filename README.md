@@ -17,11 +17,11 @@ It should execute environment.yml file which deals with dependencies. <br/>
 ## Usage
 
 ### Training GAT
-CORA:
+CORA: <br/>
 To run it (from console) just call: <br/>
 `python training_script_cora.py`
 
-PPI:
+PPI: <br/>
 To run it (from console) just call: <br/>
 `python training_script_ppi.py`
 
