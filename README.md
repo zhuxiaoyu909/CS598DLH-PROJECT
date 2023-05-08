@@ -18,11 +18,11 @@ It should execute environment.yml file which deals with dependencies. <br/>
 
 ### Training GAT
 Train/evaluate Model on CORA Data: <br/>
-To run it (from console) just call: <br/>
+To run it (from console) just call: 
 `python training_script_cora.py`
 
 Train/evaluate Model on PPI Data: <br/>
-To run it (from console) just call: <br/>
+To run it (from console) just call: 
 `python training_script_ppi.py`
 
 * add the `--should_test` - to evaluate GAT on the test portion of the data
